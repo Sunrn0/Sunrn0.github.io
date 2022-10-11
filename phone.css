@@ -8,5 +8,12 @@
     header{
         width:100%;
         height: 30%;
-        background-color: #996c93;    
+        background-color: #006c93;    
+}
+#name{
+    padding: 5%;
+    color: aliceblue;
+    font-size: 3em;
+    margin: 0%;
+    text-align: center;
 }
